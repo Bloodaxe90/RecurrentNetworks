@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="kkf525@csgpu1.cs.york.ac.uk:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/shared/storage/cs/studentscratch/kkf525/PyCharm_Projects/RecurrentNetworks" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
