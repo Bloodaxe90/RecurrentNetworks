@@ -1,4 +1,4 @@
-Recurrent Networks:
+# Recurrent Networks:
 
 This was done after I implemented my Pytorch Transformer as I wanted to go back and have a 
 look at the types of networks used for seqential data before transformers.
