@@ -1,0 +1,6 @@
+pandas~=2.2.3
+torch~=2.2.2
+idx2numpy~=1.2.3
+numpy~=1.26.4
+torchtext~=0.17.2
+matplotlib~=3.10.1
